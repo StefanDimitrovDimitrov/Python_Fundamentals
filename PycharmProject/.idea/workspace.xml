@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97a53456-7fbd-4853-bddf-a10d20a957de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dqKtAp2REIT2O7T1v0ac0vruUH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jivot\PycharmProject\Udemy 10 apps\01.Dictionary" />
+      <recent name="C:\Users\jivot\PycharmProject\Advanced level\Advanced OOP" />
+      <recent name="C:\Users\jivot\PycharmProject\Advanced level\Advanced" />
+      <recent name="C:\Users\jivot\PycharmProject\Fundamentals level" />
+      <recent name="C:\Users\jivot\PycharmProject\Python_Fundamentals_Basic_Syntax" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.06. List Manipulator">
+    <configuration name="01.Taxi Express" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/01.Taxi Express.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02. Minesweeper Generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/02. Minesweeper Generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Numbers Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/03. Numbers Search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06. List Manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/06. List Manipulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Fast Food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex/08. Fast Food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.06. List Manipulator" />
+        <item itemvalue="Python.03. Numbers Search" />
+        <item itemvalue="Python.02. Minesweeper Generator" />
+        <item itemvalue="Python.01.Taxi Express" />
+        <item itemvalue="Python.08. Fast Food" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97a53456-7fbd-4853-bddf-a10d20a957de" name="Default Changelist" comment="" />
+      <created>1593147395599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593147395599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604364132411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604364132411" />
+    <state x="1169" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604384202026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1169" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604384202026" />
+    <state width="348" height="370" key="DebuggerActiveHint" timestamp="1603545259248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="348" height="370" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1603545259248" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605359147703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605359147703" />
+    <state width="934" height="289" key="GridCell.Tab.0.bottom" timestamp="1605239604930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605239604930" />
+    <state width="934" height="289" key="GridCell.Tab.0.center" timestamp="1605239604930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605239604930" />
+    <state width="934" height="289" key="GridCell.Tab.0.left" timestamp="1605239604930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605239604930" />
+    <state width="934" height="289" key="GridCell.Tab.0.right" timestamp="1605239604930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605239604930" />
+    <state width="934" height="248" key="GridCell.Tab.1.bottom" timestamp="1605239564150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="248" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605239564150" />
+    <state width="934" height="248" key="GridCell.Tab.1.center" timestamp="1605239564150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="248" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605239564150" />
+    <state width="934" height="248" key="GridCell.Tab.1.left" timestamp="1605239564150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="248" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605239564150" />
+    <state width="934" height="248" key="GridCell.Tab.1.right" timestamp="1605239564150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="934" height="248" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605239564150" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1605068509460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605068509460" />
+    <state x="1313" y="236" width="607" height="804" key="find.popup" timestamp="1604384083395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1313" y="236" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604384083395" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603539380156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603539380156" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Python_Fundamentals_Basic_Syntax/03. Word_Reverse.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Python_Fundamentals_Basic_Syntax/Ex 06. Next Happy Year.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/01.Counter_Strike.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/functions/Test Ivan.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/05.MuOnline.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/05.MuOnline.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/06.Inventory.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/07. National Court.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/8. Shopping List.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/8. Shopping List.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/8. Shopping List.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Prep Mid Examp Fundamentals/09.Heart Delivery.py</url>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Object -  Exercise/08.Vehicle.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Fundamentals Mid Exam/02. Array Modifier.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Fundamentals Mid Exam/02. Array Modifier.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/07. Student Academy.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/03. Legendary Farming.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/04. Orders.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/04. Orders.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/01. Count Chars in a String.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/08. Company Users.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/08. Company Users.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - Exercises/06. Courses.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - More Exercises/01. Ranking.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - More Exercises/02. Judge.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Dictionaries - More Exercises/02. Judge.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/01. Valid Usernames.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/01. Valid Usernames.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/03. Extract File.py</url>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/04. Caesar Cipher.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/05. Emoticon Finder.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Text Processing - Exercise/06. Replace Repeating Chars.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/03. Need for Speed III.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/04. Username.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/04. Username.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/05.Password.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Regular Expressions/RE Lab/02. Match Phone Number.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Regular Expressions/RE Lab/03. Match Dates.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/03. Need for Speed III.py</url>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/06.Followers.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/FINAL EXAM- FUNDAMENTALS/01. World Tour.py</url>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/FINAL EXAM- FUNDAMENTALS/01. World Tour.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Regular Expressions/RE - Exercise/02. Find Variable Names in Sentences.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/FINAL EXAM- FUNDAMENTALS/03.Planet Discovery.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/08.Fancy Barcodes.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fundamentals level/Final Exam Prep - Fundamentals/09. Heroes of Code and LogicVII.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex/02. Matching Brackets.py</url>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex/02. Matching Brackets.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex/12. Robotics.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/01. Lists as Stacks and Queues - Lab + Ex/11. Balanced Parentheses.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/04. Parking Lot.py</url>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/03. Record Unique Names.py</url>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/05. SoftUni Party.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/07. Sets of Elements.py</url>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/08. Periodic Table.py</url>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/10. Phonebook.py</url>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/02. Tuples and Sets - Lab + Ex/11. Longest Intersection.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/01. Sum Matrix Elements.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/06. Diagonal Difference.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/02. Sum Matrix Columns.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/03. Primary Diagonal.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/04. Symbol in Matrix.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/04. Symbol in Matrix.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/05. Square with Maximum Sum.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/05. Square with Maximum Sum.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/05. Square with Maximum Sum.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/04.Bombs.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/09. Magic Triangle.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Exam -October - Advanced/Scheduling.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Exam -October - Advanced/Checkmate.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Exam -October - Advanced/Checkmate.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Exam -October - Advanced/List_Pureness.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Exam -October - Advanced/Checkmate.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/10. Snake Moves.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/07. 2x2 Squares in Matrix.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/08. Maximum Sum.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/09. Matrix Shuffling.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/03. Multidimensional Lists - Lab +Ex/09. Matrix Shuffling.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/01.Taxi Express.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/02. Minesweeper Generator.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/02. Minesweeper Generator.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/02. Minesweeper Generator.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/03. Numbers Search.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced/Examp_Preparation - Sep 2020/06. List Manipulator.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
