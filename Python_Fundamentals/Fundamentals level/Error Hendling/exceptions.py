@@ -1,8 +1,8 @@
-class Error:
+class Error(Exception):
     pass
 
 
-class InvalidInputError(Exception):
+class InvalidInputError(Error):
     pass
 
 
